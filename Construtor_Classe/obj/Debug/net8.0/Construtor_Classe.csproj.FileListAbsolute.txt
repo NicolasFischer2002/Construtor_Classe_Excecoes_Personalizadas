@@ -1,0 +1,14 @@
+C:\Users\Micro\Desktop\Construtor_Classe\Construtor_Classe\Construtor_Classe\bin\Debug\net8.0\Construtor_Classe.exe
+C:\Users\Micro\Desktop\Construtor_Classe\Construtor_Classe\Construtor_Classe\bin\Debug\net8.0\Construtor_Classe.deps.json
+C:\Users\Micro\Desktop\Construtor_Classe\Construtor_Classe\Construtor_Classe\bin\Debug\net8.0\Construtor_Classe.runtimeconfig.json
+C:\Users\Micro\Desktop\Construtor_Classe\Construtor_Classe\Construtor_Classe\bin\Debug\net8.0\Construtor_Classe.dll
+C:\Users\Micro\Desktop\Construtor_Classe\Construtor_Classe\Construtor_Classe\bin\Debug\net8.0\Construtor_Classe.pdb
+C:\Users\Micro\Desktop\Construtor_Classe\Construtor_Classe\Construtor_Classe\obj\Debug\net8.0\Construtor_Classe.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Micro\Desktop\Construtor_Classe\Construtor_Classe\Construtor_Classe\obj\Debug\net8.0\Construtor_Classe.AssemblyInfoInputs.cache
+C:\Users\Micro\Desktop\Construtor_Classe\Construtor_Classe\Construtor_Classe\obj\Debug\net8.0\Construtor_Classe.AssemblyInfo.cs
+C:\Users\Micro\Desktop\Construtor_Classe\Construtor_Classe\Construtor_Classe\obj\Debug\net8.0\Construtor_Classe.csproj.CoreCompileInputs.cache
+C:\Users\Micro\Desktop\Construtor_Classe\Construtor_Classe\Construtor_Classe\obj\Debug\net8.0\Construtor_Classe.dll
+C:\Users\Micro\Desktop\Construtor_Classe\Construtor_Classe\Construtor_Classe\obj\Debug\net8.0\refint\Construtor_Classe.dll
+C:\Users\Micro\Desktop\Construtor_Classe\Construtor_Classe\Construtor_Classe\obj\Debug\net8.0\Construtor_Classe.pdb
+C:\Users\Micro\Desktop\Construtor_Classe\Construtor_Classe\Construtor_Classe\obj\Debug\net8.0\Construtor_Classe.genruntimeconfig.cache
+C:\Users\Micro\Desktop\Construtor_Classe\Construtor_Classe\Construtor_Classe\obj\Debug\net8.0\ref\Construtor_Classe.dll
